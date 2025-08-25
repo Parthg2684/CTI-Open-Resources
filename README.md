@@ -8,5 +8,5 @@ https://start.me/p/0NKyAl/socradar-labs-free-tools
 # 50 Free Online Tools For SOC Analysts
 https://start.me/p/n7k6YL/50-free-online-tools-for-soc-analyst
 
-# SOCRadar CTI Fundamentals Training Toolkit
+# CTI Fundamentals Training Toolkit
 https://start.me/p/gGj8gn/mastering-threat-intelligence-platforms
