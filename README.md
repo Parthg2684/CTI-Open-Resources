@@ -11,6 +11,9 @@ https://start.me/p/n7k6YL/50-free-online-tools-for-soc-analyst
 # CTI Fundamentals Training Toolkit
 https://start.me/p/gGj8gn/mastering-threat-intelligence-platforms
 
+# Dark Web related links
+https://github.com/intelligentcyber/DarkWeb/wiki/Dark-Web-related-links
+----------------------------------------------------------------------------------------------------------------------
 # Cyber Threat Intelligence (CTI) Resources
 
 A curated list of resources for Cyber Threat Intelligence (CTI), covering frameworks, tools, learning materials, and more.
